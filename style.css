@@ -5,6 +5,11 @@
   font-family: "Montserrat Alternates", sans-serif;
   font-size: 2vh;
 }
+
+#welcome {
+  font-size: 1.5vh;
+  color: #979797;
+}
 body {
   font-family: "Roboto", sans-serif;
   background-color: #e8ecff;
